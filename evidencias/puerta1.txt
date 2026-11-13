@@ -1,0 +1,1 @@
+puerta 1 superada: llave encontrada con ls -la
